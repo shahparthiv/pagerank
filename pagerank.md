@@ -55,6 +55,7 @@ values (intermediate and final). A sample of the output for the case of N > 10 i
 first 4 lines of it).
 
 % ./pagerank 15 -1 samplegraph.txt
+
 Base : 0 :P[ 0]=0.250000 P[ 1]=0.250000 P[ 2]=0.250000 P[ 3]=0.250000
 
 Iter : 1 :P[ 0]=0.250000 P[ 1]=0.250000 P[ 2]=0.143750 P[ 3]=0.143750
