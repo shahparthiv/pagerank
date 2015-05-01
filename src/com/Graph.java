@@ -158,7 +158,7 @@ public class Graph {
 	}
 
 	/**
-	 * @param length the length to set
+	 * @param length the length to set ---git test
 	 */
 	public static void setLength(int length) {
 		Graph.length = length;
